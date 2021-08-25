@@ -1,0 +1,115 @@
+[[JonkerVolgenant]]
+arch = "aarch64"
+git-tree-sha1 = "ffa730c6c1cb342ad735c93737dd5493ed87823a"
+libc = "glibc"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "00893f9db047443289789cfa624e7f9be845e6df94e1ad93b2832de243e8fa1f"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.aarch64-linux-gnu.tar.gz"
+[[JonkerVolgenant]]
+arch = "aarch64"
+git-tree-sha1 = "d13074d3ae75e5af5479bd8129de3d864111ac67"
+libc = "musl"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "c037d3e517900f73da996a7429f76a49b11b6702f64c81f3e09d242fd3bad57a"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.aarch64-linux-musl.tar.gz"
+[[JonkerVolgenant]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7e67b96e6ec2131c71249cb207be513e332bd7b1"
+libc = "glibc"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "76ff9081d9d5f9c6692a3de910919c306fb7cf8e0755f0ccc276ecaefa1c1758"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[JonkerVolgenant]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "eeb76129b85abc0a590031bad695d34d4a506f25"
+libc = "musl"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "3a79375959e03ea29f119f851a59e929ff2c698de66a5c060125d311d375ec70"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.armv7l-linux-musleabihf.tar.gz"
+[[JonkerVolgenant]]
+arch = "i686"
+git-tree-sha1 = "11107f4475c70e9b92490d417fb4f5efb7f09890"
+libc = "glibc"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "0ce838dc6bf8d9c51084ca09d353d433d9be6e1f8281bf26ee00c8896175255b"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.i686-linux-gnu.tar.gz"
+[[JonkerVolgenant]]
+arch = "i686"
+git-tree-sha1 = "ff542fdbb4f3b5c0e40a013069c309a0367580bc"
+libc = "musl"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "16b07e3c70b9aea54e6428ce3bd212f58fa7ae6f2523e76712cb2e240f3de261"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.i686-linux-musl.tar.gz"
+[[JonkerVolgenant]]
+arch = "i686"
+git-tree-sha1 = "257aa46f55c87ee639469b0d0e30cb7ba43ae8b4"
+os = "windows"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "e32560c3ba4cba640717dfa88f6e5bf99ce8be039c92fea2146a79672952fba2"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.i686-w64-mingw32.tar.gz"
+[[JonkerVolgenant]]
+arch = "powerpc64le"
+git-tree-sha1 = "2d203f333f97463cc796f91be07266daef836e9e"
+libc = "glibc"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "9381931f3f5ed84c3cbfdde83544b95ea55b3364a90092d4e05e52aa4a069817"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.powerpc64le-linux-gnu.tar.gz"
+[[JonkerVolgenant]]
+arch = "x86_64"
+git-tree-sha1 = "0e9ccfd434d8cbd6b4f85b3ad36f3c2fe9ed2aba"
+os = "macos"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "c63382bac7ff60b60727bdf5423dff2a65b1e18b514aa83cee29de0b4d05236d"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.x86_64-apple-darwin.tar.gz"
+[[JonkerVolgenant]]
+arch = "x86_64"
+git-tree-sha1 = "90ef885932aa21ead1a5c0e19055a915306e412d"
+libc = "glibc"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "d7866bc3370421f47e021372e219fcb52f92322f23bc7478560a446f4347a725"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.x86_64-linux-gnu.tar.gz"
+[[JonkerVolgenant]]
+arch = "x86_64"
+git-tree-sha1 = "716f252de5bc18dda83acc791c2543556499188d"
+libc = "musl"
+os = "linux"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "0fbf25374cb345a47db92e9d818af2c0313c7d1fbb03e050d1c55a7ac0fba5fa"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.x86_64-linux-musl.tar.gz"
+[[JonkerVolgenant]]
+arch = "x86_64"
+git-tree-sha1 = "e7c6e7e02e90c547409c68450726f550fb7e65c5"
+os = "freebsd"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "70533cfea45a571b6ad45ae6d9b7d690daf6794f467de4fece407c04d584044e"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.x86_64-unknown-freebsd.tar.gz"
+[[JonkerVolgenant]]
+arch = "x86_64"
+git-tree-sha1 = "f88e3e80708e24b2ec738a02bc1cc29dadec897a"
+os = "windows"
+
+    [[JonkerVolgenant.download]]
+    sha256 = "83134147dcd4c431f98e81cc91ecd839b70b91c83fc49ed3fcea9a6db5257767"
+    url = "https://github.com/fypc/JonkerVolgenant_jll.jl/releases/download/JonkerVolgenant-v1.1.0+0/JonkerVolgenant.v1.1.0.x86_64-w64-mingw32.tar.gz"
